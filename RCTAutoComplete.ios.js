@@ -41,7 +41,7 @@ var RCTAutoComplete = React.createClass({
 });
 
 var styles = StyleSheet.create({
-    AutoComplete: {height: 50, width: 300}
+    AutoComplete: {height: 50, width: 100}
 });
 
 module.exports = RCTAutoComplete
